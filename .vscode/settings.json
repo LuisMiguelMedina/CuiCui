@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "AnalizadorLexico/lib/jflex-1.6.1.jar"
+    ]
+}
